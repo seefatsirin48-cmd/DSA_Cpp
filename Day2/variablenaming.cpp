@@ -11,4 +11,7 @@ int main(){
     // int 1x =9;
     // cout<<1x<<endl; // It gives error
 
+    int For =34;
+    cout<<For<<endl;
+    
 }
