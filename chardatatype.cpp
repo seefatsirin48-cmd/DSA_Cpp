@@ -17,5 +17,7 @@ int main(){
     char z='1';
     ascii=z; //implicit typecasting
     cout<<ascii<<endl;
+    int a = 74;
+    cout<<(char)a<<endl;
 }
     
